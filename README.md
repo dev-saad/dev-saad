@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on FlowScraper<br><br>👯 I’m looking to collaborate on Front-End Projects<br><br>👨‍💻 All of my projects are available at https://alsaadkarim.com/<br><br>📫 How to reach me hi@alsaadkarim.com</p>
+<p align="left">🔭 I’m currently working on FlowScraper<br><br>👯 I’m looking to collaborate on Front-End Projects<br><br>👨‍💻 All of my projects are available at https://alsaadkarim.com/<br><br>📫 How to reach me <a href="mailto:hi@alsaadkarim.com">hi@alsaadkarim.com</a></p>
 
 ###
 
